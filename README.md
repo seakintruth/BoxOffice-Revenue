@@ -1,2 +1,2 @@
 # BoxOffice-Revenue
-Model to predict movie revenue at the box office.
+View data by clicking on Movie_Revenue.ipynb
